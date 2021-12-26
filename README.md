@@ -30,6 +30,7 @@ Wiring Diagram :
 <img src="./Desk-Assistant-Wiring.png">
 
 Note :
+* You need to install additional library such as DHT11, Acclerometer, etc.
 * You need to create your own telegram bot first.
 Maybe this tutorial could help you a little.
 https://youtu.be/wP2J5BaQIWs
