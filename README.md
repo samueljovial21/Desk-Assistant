@@ -1,7 +1,7 @@
 # Desk-Assistant
 A simple IoT arduino project using ESP32-Dev Board and Telegram. Desk Assistant is a monitoring on eye's health, keeping the user at a certain distance into the monitor and also monitoring light intensity in the room.
 
-Fitures :
+Features :
 1. Monitoring and giving notification via LED, buzzer, and telegram bot of face's distancion from monitor
 2. Monitoring and giving notification via LED, buzzer, and telegram bot of room's light intensity
 3. Monitoring and giving notification via LED and telegram bot of device's temperature
@@ -36,7 +36,7 @@ Maybe this tutorial could help you a little.
 https://youtu.be/wP2J5BaQIWs
 * You need of having a good internet connection for a better project experience in this case
 
-Explaining :
+Explanation :
 1. The DHT11 should be placed near your device air circulation.
 2. The Accelerometer should be placed at the top of your monitor to keep it detecting your face
 3. The Photoresistor or LDR should be placed far from your monitor to avoid it calculating your monitor light intensity instead of room intensity.
