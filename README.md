@@ -14,7 +14,7 @@ Device and tools needed :
 4. DHT11 (1)
 5. LED (2 Red + 2 Green)
 6. Resistor (220 ohm 2 pieces)
-7. LCD (16x2 1 Piece)
+7. LCD I2C (Dimension : 16x2 1 Piece)
 8. Breadboard (1)
 9. USB Cable Type B (1)
 10. Jumper Male to Female (±20)
