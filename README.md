@@ -48,6 +48,6 @@ The telegram bot would be the main notification using the internet connection
 The LED and buzzer would be the secondary notification
 <img src="./Explaining.jpg">
 
-References :
+# References
 [1] 	J. W. Leksono, Modul Belajar Arduino Uno, Jombong: LPPMUNHASY, 2019. 
 [2] 	M. C. T. Manullang, A. Saputra, D. Sipangkar, A. D. G. Bangun and A. M. Ardhi, Modul Hands On (Code References), Lampung Selatan: Teknik Informatika, Institut Teknologi Sumatera, 2021.
